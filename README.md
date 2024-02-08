@@ -10,4 +10,7 @@ To Run This Program
 6. Choose a file or a folder to compress by copying the path and pasting it in terminal.
 7. Choose the compression type by it's extension and press enter.
 
-Please note that the file or the folder name will change after the compression to "file_name_year_month_day.extention."![2](https://github.com/irakozej/file-Conveter/assets/110496890/d23471ed-a013-458c-9009-7307cdeda65f)
+Please note that the file or the folder name will change after the compression to "file_name_year_month_day.extention."
+
+
+![2](https://github.com/irakozej/file-Conveter/assets/110496890/d23471ed-a013-458c-9009-7307cdeda65f)
